@@ -1,5 +1,7 @@
 Labo 1 - GEN
 
+Bacso Gaetan et Edoardo Carpita
+
 Liste des commandes :
 
 git init
