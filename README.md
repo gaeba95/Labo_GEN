@@ -13,3 +13,11 @@ git add README.md
 git commit -m "Adding README.md"
 
 git push -u origin master
+
+git checkout master
+
+git add README.md 
+
+git commit -m "Update readme v2"
+
+git push origin master
